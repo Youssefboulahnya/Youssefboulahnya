@@ -32,9 +32,9 @@
 ## 🛠️ Languages and Tools
 
 <div align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="5">
-    <img src="https://skillicons.dev/icons?i=java,c,cpp,ts,js,react,nodejs,mongodb,docker,html,css,git,figma,express,tailwind,vscode" height="60" />
-  </marquee>
+ <marquee behavior="alternate">
+  <img src="https://skillicons.dev/icons?i=java,c,ts,js,react,nodejs,mongodb,docker" />
+</marquee>
 </div>
 
 <hr>
