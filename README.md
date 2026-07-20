@@ -33,7 +33,7 @@
 
 <div align="center">
  <marquee behavior="alternate">
-  <img src="https://skillicons.dev/icons?i=java,c,ts,js,react,nodejs,mongodb,docker,figma" />
+  <img src="https://skillicons.dev/icons?i=java,c,ts,js,react,nodejs,mongodb,docker,figma,vscode,laravel,notion,powershell" />
 </marquee>
 </div>
 
