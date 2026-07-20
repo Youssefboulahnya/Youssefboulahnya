@@ -31,4 +31,8 @@
 
 ## 🛠️ Languages and Tools
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Youssefboulahnya/Youssefboulahnya/main/skills-marquee.svg" width="700" height="70" />
+</div>
+
 <hr>
