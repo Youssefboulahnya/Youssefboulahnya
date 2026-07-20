@@ -1,7 +1,5 @@
 <div align="center">
-
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Youssefboulahnya.Youssefboulahnya" alt="Visitor's Count" />
-
 </div>
 
 <img src="https://raw.githubusercontent.com/Youssefboulahnya/Youssefboulahnya/main/Teal%20and%20Black%20Modern%20Programmer%20New%20LinkedIn%20Banner.png" alt="Banner of a developer sitting in front of a desk">
@@ -11,26 +9,32 @@
 </h1>
 
 ### A full-stack software engineer passionate about building beautiful, functional, and user-centric web applications.
+
 <br>
 
 <div align="center">
-  <a href="youssefboulahnya@gmail.com">
+  <a href="mailto:youssefboulahnya@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/youssef-boulahnya-899750382/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://x.com/ysf_sv0" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank" />
-</a>
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
   <a href="https://dev.to/ysf_sv0" target="_blank">
-    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" target="_blank" />
-</a>
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
+  </a>
 </div>
 
 <hr>
+
 ## 🛠️ Languages and Tools
 
-<marquee behavior="scroll" direction="left">
-  <img src="https://skillicons.dev/icons?i=java,c,ts,js,react,nodejs,mongodb,docker" />
-</marquee>
+<div align="center">
+  <marquee behavior="scroll" direction="left" scrollamount="5">
+    <img src="https://skillicons.dev/icons?i=java,c,cpp,ts,js,react,nodejs,mongodb,docker,html,css,git,figma,express,tailwind,vscode" height="60" />
+  </marquee>
+</div>
+
+<hr>
