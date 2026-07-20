@@ -34,6 +34,10 @@
   <img src="https://raw.githubusercontent.com/Youssefboulahnya/Youssefboulahnya/main/skills-marquee.svg" width="700" height="70" />
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Youssefboulahnya/Youssefboulahnya/main/orbit-preview.svg" width="300" height="300" />
+</div>
+
 <hr>
 
 ## 🐍 My Contributions
