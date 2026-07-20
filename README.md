@@ -29,3 +29,8 @@
 </div>
 
 <hr>
+## 🛠️ Languages and Tools
+
+<marquee behavior="scroll" direction="left">
+  <img src="https://skillicons.dev/icons?i=java,c,ts,js,react,nodejs,mongodb,docker" />
+</marquee>
